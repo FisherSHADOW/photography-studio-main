@@ -1,0 +1,202 @@
+@font-face{
+    font-family: nastaligh;
+    src: url(./src/Fonts/IranNastaliq.ttf)
+}
+@font-face {
+    font-family: naskh;
+    src: url(./src/Fonts/Adobe\ Naskh\ Medium.OTF);
+}
+body{
+    background-color: rgb(255, 255, 255) ; 
+}
+/* header */
+.head{ 
+    width: 1200px;
+    height: 170px;
+    background-color: rgb(139, 139, 139);
+    margin-left: 337px;
+    margin-top: 100px;
+}
+.title{
+    color: #c19b5d;
+    font-family: nastaligh;
+    font-size: 95px;
+    margin-top: -383px;
+    margin-left: 750px;
+}
+/* container1 */
+.container1{
+    direction: ltr;
+    margin-top: -78px;
+}
+.righttop{
+    width: 600px;
+    height: 500px;
+    background-color: #d6d6d6;
+    margin: 20px 937px;
+        
+}
+.lefttop{
+    width: 600px;
+    height: 500px;
+    background-color: #434343;
+    margin: -520px 337px;
+}
+.mainlogo{
+    width: 370px;
+    height: 100%;
+    margin: -440px 1060px;
+}
+.mainpic{
+    height: 500px;
+    margin-left: 350px;
+    margin-top: 2px;
+}
+/* container2 */
+.lefttop2{
+    width: 600px;
+    height: 500px;
+    background-color: #1f1f1f;
+    margin: 500px 337px;
+}
+.righttop2{
+    width: 600px;
+    height: 500px;
+    background-color: #2f2f2f;
+    margin: -1000px 936px;
+}
+.portrait1{
+    margin-top: 500px;
+    margin-left: 937px;
+}
+.title2{
+    color: #918774;
+    font-family: nastaligh;
+    font-size: 40px;
+    direction: rtl;
+    padding-top: 70px;
+    padding-right: 70px;
+}
+.title2-2{
+    color: #918774;
+    font-family: naskh;
+    font-size: 35px;
+    direction: rtl;
+    border: solid white;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    line-height: 55px;
+    margin-left: 145px;
+}
+/* container3 */
+.lefttop3{
+    width: 600px;
+    height: 500px;
+    background-color: #2866e4;
+    margin: -4px 0 0 337px 
+}
+.righttop3{
+    width: 600px;
+    height: 550px;
+    background-color: #d1cacb;
+    margin: -500px 0 0 px;
+}
+/* container4 */
+
+.login-parent{
+    width: 600px;
+    height: 550px;
+    background-color: #1f1f1f;
+    margin-left:-500px;
+   }
+   .textbox1{
+    color: #918774;
+    font-family: nastaligh;
+    font-size: 40px;
+    direction: rtl;
+    margin-top: -380px;
+    margin-right: 480px;
+   }
+   .textbox2{
+    color: #918774;
+    font-family: naskh;
+    font-size: 40px;
+    direction: rtl;
+    margin-top: -30px;
+}
+
+.login-box{
+    width: 300px;
+    height: 335px;
+    background-color: beige;
+    border-radius: 15px;
+    margin-top: -2513px;
+    margin-left: 485px;
+}
+.elements{
+    direction: rtl;
+    text-align: center;
+    padding-top: 20px;
+    font-size: larger;
+    line-height: 30px;
+    font-family: naskh;
+}
+/* labels */
+#usernamelbl{
+    color: #343435;
+}
+#emaillbl{
+    color: #343435;
+}
+#numberlbl{ 
+    color: #343435;
+}
+#passlbl{
+    color: #343435;
+}
+/* inputs*/
+input[type=text] {
+    background-color: #343435;
+    border-radius: 15px;
+    color: #ebd2d6;
+}
+input[type=email]{
+    background-color: #343435;
+    border-radius: 15px;
+    color: #ebd2d6;
+}
+input[type=tel]{
+    background-color: #343435;
+    border-radius: 15px;
+    color: #ebd2d6;
+}
+input[type=password]{
+    background-color: #343435;
+    border-radius: 15px;
+    color: #ebd2d6;
+}
+#signup{
+    color: #ebd2d6;
+    background-color: #585858;
+    width: 110px;
+    border-radius: 15px;
+    font-family: naskh;
+    font-size: 20px;
+    margin-top: 5px;
+}
+#login{ 
+    color: #ebd2d6;
+    background-color: #585858;
+    width: 110px;
+    border-radius: 15px;
+    font-family: naskh;
+    font-size: 20px;
+}
+/*place-holders*/
+::placeholder{
+    color: #979797;
+    text-align: center;
+    font-family: naskh;
+    font-size: large;
+}
