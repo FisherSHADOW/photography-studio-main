@@ -104,12 +104,13 @@ body{
 }
 /* container4 */
 
-/* .login-parent{
-    width: 600px;
-    height: 550px;
+.footer{
+    width: 1200px;
+    height: 350px;
     background-color: #1f1f1f;
-    margin-left:-500px;
-   } */
+    margin-left:337px;
+    margin-top: 1140px;
+   }
    .textbox1{
     color: #918774;
     font-family: nastaligh;
