@@ -21,14 +21,15 @@ body{
 .title{
     color: #c19b5d;
     font-family: nastaligh;
-    font-size: 95px;
-    margin-top: -346px;
-    margin-left: 928px;
+    font-size: 70px;
+    line-height: 230px;
+    margin-top: -230px;
+    margin-left: 1030px;
 }
 /* container1 */
 .container1{
     direction: ltr;
-    margin-top: -115px;
+    margin-top: -140px;
 }
 .righttop{
     width: 600px;
@@ -100,8 +101,33 @@ body{
 .righttop3{
     width: 600px;
     height: 550px;
-    background-color: #d1cacb;
+    background-color: #3e3e3e;
     margin: -500px 0 0 937px;
+}
+.title3{
+    color: #918774;
+    font-family: nastaligh;
+    font-size: 40px;
+    direction: rtl;
+    margin-right: 55px;
+    padding-top: 30px;
+}
+.title4{
+    color: #918774;
+    font-family: naskh;
+    font-size: 35px;
+    direction: rtl;
+    margin-left: 150px;
+    padding-top: 35px;
+    border: 2px solid white;
+    width: 330px;
+    text-align: center;
+    height: 90px;
+    line-height: 55px;
+    margin-top: 80px;
+}
+.title4-text{
+    margin-top: -25px;
 }
 /* container4 */
 
