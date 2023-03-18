@@ -74,7 +74,7 @@ body{
     font-family: nastaligh;
     font-size: 40px;
     direction: rtl;
-    padding-top: 70px;
+    padding-top: 100px;
     padding-right: 70px;
 }
 .title2-2{
@@ -82,12 +82,12 @@ body{
     font-family: naskh;
     font-size: 35px;
     direction: rtl;
-    border: solid white;
+    border: solid white 2px;
     text-align: center;
     width: 300px;
     height: 100px;
     line-height: 55px;
-    margin-left: 145px;
+    margin-left: 146px;
 }
 /* container3 */
 .lefttop3{
