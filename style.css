@@ -139,20 +139,23 @@ body{
     margin-top: 1140px;
     background-image: url(./src/images/background-img2.jpg);
    }
-   .textbox1{
-    color: #918774;
-    font-family: nastaligh;
-    font-size: 40px;
-    direction: rtl;
-    margin-top: -380px;
-    margin-right: 480px;
-   }
-   .textbox2{
-    color: #918774;
-    font-family: naskh;
-    font-size: 40px;
-    direction: rtl;
-    margin-top: -30px;
+.instagram{
+    width: 40px;
+    height: 100%;
+    margin-left: 10px;
+    margin-top: 195px;
+}
+.email{
+    width: 40px;
+    height: 100%;
+    margin-left: 10px;
+}
+.telegram{
+    width: 40px;
+    height: 100%;
+    margin-left: 10px;
+    margin-top: 3px;
+
 }
 
 .login-box{
